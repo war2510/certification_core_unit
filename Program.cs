@@ -1,4 +1,5 @@
-﻿{
+﻿class Program
+{
     static void Main(string[] args)
     {
         Console.WriteLine("Введите элементы массива через пробел:");

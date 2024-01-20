@@ -1,0 +1,15 @@
+C:\Users\79205\Desktop\certification_core_unit\bin\Debug\net8.0\certification_core_unit.exe
+C:\Users\79205\Desktop\certification_core_unit\bin\Debug\net8.0\certification_core_unit.deps.json
+C:\Users\79205\Desktop\certification_core_unit\bin\Debug\net8.0\certification_core_unit.runtimeconfig.json
+C:\Users\79205\Desktop\certification_core_unit\bin\Debug\net8.0\certification_core_unit.dll
+C:\Users\79205\Desktop\certification_core_unit\bin\Debug\net8.0\certification_core_unit.pdb
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.AssemblyInfoInputs.cache
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.AssemblyInfo.cs
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.csproj.CoreCompileInputs.cache
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.sourcelink.json
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.dll
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\refint\certification_core_unit.dll
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.pdb
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\certification_core_unit.genruntimeconfig.cache
+C:\Users\79205\Desktop\certification_core_unit\obj\Debug\net8.0\ref\certification_core_unit.dll
